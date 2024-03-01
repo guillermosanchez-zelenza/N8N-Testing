@@ -1,0 +1,2 @@
+import{dw as n}from"./n8n-_nNvRoCf.js";const r=t=>{const e=`d mmm${new Date(t).getFullYear()===new Date().getFullYear()?"":", yyyy"}#HH:MM:ss`,a=n(t,e),[s,o]=a.split("#");return{date:s,time:o}};function c(t){const e=`d mmm${new Date(t).getFullYear()===new Date().getFullYear()?"":", yyyy"}#HH:MM:ss`,a=n(t,e),[s,o]=a.split("#");return{date:s,time:o}}export{c as a,r as c};
+//# sourceMappingURL=dateFormatter-e3zTcyK4.js.map
